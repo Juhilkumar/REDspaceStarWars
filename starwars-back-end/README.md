@@ -10,8 +10,4 @@ Runs  index.js
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ### `Deployment`
-
-Deployed this application on Google CloudRun with docker image.
-
-Click here to see the deployed application on CloudRun : 
-<!-- https://frontend-starwars-redspace.herokuapp.com/ -->
+URL: https://backend-starwars-redspace.herokuapp.com/api/v1/person/1
