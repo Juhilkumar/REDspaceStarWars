@@ -7,7 +7,7 @@ Install all the dependencies from package.json
 ### `npm start`
 
 Runs  index.js 
-Open [http://localhost:5002](http://localhost:5002) to view it in the browser.
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ### `Deployment`
 
