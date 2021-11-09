@@ -8,7 +8,7 @@ function CharecterInfo() {
   const [speciesInfo, setSpeciesInfo] = useState(null);
   const [filmList, setFilms] = useState(null);
   const { id } = useParams();
-  const userListUrl = `http://localhost:8080/api/v1/person/` + id;
+  const userListUrl = `https://backend-starwars-redspace.herokuapp.com/api/v1/person/` + id;
   const homePlanetInfoUrl = "https://swapi.dev/api/planets/" + id;
   const speciesInfoUrl = "https://swapi.dev/api/species/" + id;
   const filmListUrl = "https://swapi.dev/api/films/" + id;
