@@ -55,8 +55,7 @@ function People() {
             </CardGroup>
           </div>
         );
-      })}
-      
+      })}  
     </div>
   );
 }
